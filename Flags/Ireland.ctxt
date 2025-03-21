@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ireland
+comment0.text=\r\n\ creates\ flag\ of\ ireland\ in\ the\ GUI\r\n\ \r\n\ @fleur\r\n\ @21/3/2025\r\n
+comment1.params=
+comment1.target=Ireland()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ireland\r\n
+comment2.params=
+comment2.target=void\ drawIreland()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
