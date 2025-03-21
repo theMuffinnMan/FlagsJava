@@ -28,12 +28,13 @@ public class Ireland
     // draws the flag of ireland
     private void drawIreland(){
         UI.setColor(Color.orange); // sets pen to orange
-        UI.fillRect(0,0,20,60); //draws rectangle
+        UI.fillRect(0,0,200,500); //draws rectangle
         
         UI.setColor(Color.green); // sets pen to green
-        UI.fillRect(40,0,20,60); //draws rectangle
+        UI.fillRect(400,0,200,500); //draws rectangle
     }
     
+    // main function
     public static void main(String[] args){
         Ireland obj = new Ireland();
         obj.drawIreland();
