@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Flag of Ireland
+PURPOSE OF PROJECT: create flag of ireland in the GUI
+VERSION or DATE: 21/3
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Fleur Moncrieff
 USER INSTRUCTIONS:

@@ -27,10 +27,10 @@ public class Ireland
 
     // draws the flag of ireland
     private void drawIreland(){
-        UI.setColor(Color.orange); // sets pen to orange
+        UI.setColor(Color.green); // sets pen to green
         UI.fillRect(0,0,200,500); //draws rectangle
         
-        UI.setColor(Color.green); // sets pen to green
+        UI.setColor(Color.orange); // sets pen to orange
         UI.fillRect(400,0,200,500); //draws rectangle
     }
     
